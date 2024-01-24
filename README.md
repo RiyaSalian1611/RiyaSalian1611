@@ -3,14 +3,14 @@
 </div>
 </br></br>
 <div>
-  <p>I love Software Development!!</p>
 </div>
 <div>
   <h3>Work Experience</h3>
   
   | Company Name   	| Role               	| Duration                     	|
 |----------------	|--------------------	|------------------------------	|
-| [Lowe's Companies Inc](https://www.lowes.com/)       	| Software Engineer         	| August 2020 - Present    	|
+| [IMPACT Lab, Arizona State University](https://impact.lab.asu.edu/)       	| Research Associate         	| September 2022 - Present    	|
+| [Lowe's Companies Inc](https://www.lowes.com/)       	| Software Engineer         	| August 2020 - July 2022    	|
 | [VOLTAS](https://www.myvoltas.com/)       	| SDE Intern         	| May 2019 - July 2019    	|
 | [NIT, Nagpur](https://vnit.ac.in/)    	| Research & Development Intern 	| December 2018 - February 2019 	|
 | [AgamTek Solutions](https://www.agamtek.com/) 	| Backend Developer Intern 	| May 2018 - July 2018     	|
