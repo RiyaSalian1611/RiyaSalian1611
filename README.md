@@ -22,6 +22,21 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
+<img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" />
+<img alt="Micronaut" src="https://img.shields.io/badge/-Micronaut-45A2B9?style=flat-square&logo=Micronaut&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
+<img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" />
+<img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" />
+
 </p>
 <h3>My Projects</h3>
 <table>
