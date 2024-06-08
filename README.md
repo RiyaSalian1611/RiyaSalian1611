@@ -63,8 +63,12 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/RiyaSalian1611/LLM-Sentiment-Analysis-Visualization"><b>LLM-Sentiment-Analysis-Visualization</b></a></td>
+      <td>This repository contains Python code for performing sentiment analysis using a Language Model (LLM) and visualizing the sentiment scores using matplotlib. The sentiment analysis function utilizes an LLM to analyze the sentiment of input text, and the visualization function creates a horizontal bar chart to represent the distribution of negative, neutral, and positive sentiments.</td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/RiyaSalian1611/WatchdogFS-MonitorPy"><b>WatchdogFS-MonitorPy</b></a></td>
+      <td>Watchdog provides a versatile API suitable for various platforms, enabling the execution of commands when the monitored file system undergoes alterations. It facilitates the setup of triggers for diverse events like file creation, modification, deletion, and movement. Subsequently, we can employ custom scripts to react to these alterations effectively.</td>
     </tr>
   </tbody>
 </table>
