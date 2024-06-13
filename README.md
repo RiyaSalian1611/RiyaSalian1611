@@ -86,6 +86,8 @@
 </p>
 
 <h3>Views</h3>
+
 ![Visitor Count](https://profile-counter.glitch.me/RiyaSalian1611/count.svg)
+
 ------------
 
