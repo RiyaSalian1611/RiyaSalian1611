@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Riya, Fullstack developer and an AI/ML Researcher (Healthcare) currently living in <img src="https://img.freeflagicons.com/thumb/round_icon/united_states_of_america/united_states_of_america_640.png" width="18"/> <b>Tempe, Arizona</b>. </p>
+<p>Welcome to my page! </br> I'm Riya, Data Scientist and an AI/ML Researcher (Healthcare),  <img src="https://img.freeflagicons.com/thumb/round_icon/united_states_of_america/united_states_of_america_640.png" width="18"/> <b>Phoenix, Arizona</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
