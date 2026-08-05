@@ -1,93 +1,200 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Hey, I'm Riya Salian
 
+### Data Scientist · Applied AI · ML Research
 
-<p>Welcome to my page! </br> I'm Riya, Data Scientist and an AI/ML Researcher (Healthcare),  <img src="https://img.freeflagicons.com/thumb/round_icon/united_states_of_america/united_states_of_america_640.png" width="18"/> <b>Phoenix, Arizona</b>. </p>
-<h3>Things I code with</h3>
+I'm a **Data Scientist and AI/ML researcher** working at the intersection of **machine learning, generative AI, personalization, and healthcare AI**.
+
+I enjoy taking problems from **data → experimentation → intelligent systems → production**, with a strong foundation in both software engineering and applied research.
+
+📍 Phoenix, Arizona, USA
+
+---
+
+## 🧠 What I Work On
+
+* 🤖 **Machine Learning & Applied AI** — predictive modeling, recommendation systems, NLP, computer vision, time-series modeling
+* 🧩 **Generative AI & LLMs** — LLM applications, RAG pipelines, prompt engineering, evaluation, and fine-tuning
+* 📊 **Data Science** — experimentation, statistical modeling, feature engineering, model evaluation, and analytics
+* 🏥 **Healthcare AI Research** — physiological time-series, ECG analysis, diabetes technology, and explainable AI
+* ⚙️ **Production ML** — scalable pipelines, MLOps, model monitoring, feature stores, and cloud deployment
+* 💻 **Software Engineering** — distributed systems, APIs, microservices, and cloud-native applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
-<img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" />
-<img alt="Micronaut" src="https://img.shields.io/badge/-Micronaut-45A2B9?style=flat-square&logo=Micronaut&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
-<img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" />
-<img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" />
-
-</p>
-<h3>My Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>📚 Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/RiyaSalian1611/Fraud-Detection"><b>Advanced Fraud Detection System for Online Banking Transactions
-</b></a></td>
-      <td>Orchestrated the development of a fraud detection system for online banking transactions, utilizing semantic web mining and graph-based features with Neo4j and integrating Random Forest and XGBoost models.
-</td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/RiyaSalian1611/EventVizPredict"><b>Twitter API for Future Event Prediction & Visualization
-</b></a></td>
-      <td>Utilized Twitter API data with LSTM for sequence modeling for classification, achieving 85% prediction accuracy. Employed NLP techniques for sentiment analysis, enabling precise future event prediction and dynamic visualizations with D3.js.
-</td>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/RiyaSalian1611/LLM-Sentiment-Analysis-Visualization"><b>LLM-Sentiment-Analysis-Visualization</b></a></td>
-      <td>This repository contains Python code for performing sentiment analysis using a Language Model (LLM) and visualizing the sentiment scores using matplotlib. The sentiment analysis function utilizes an LLM to analyze the sentiment of input text, and the visualization function creates a horizontal bar chart to represent the distribution of negative, neutral, and positive sentiments.</td>
-    </tr>
-	<tr>
-      <td><a href="https://github.com/RiyaSalian1611/WatchdogFS-MonitorPy"><b>WatchdogFS-MonitorPy</b></a></td>
-      <td>Watchdog provides a versatile API suitable for various platforms, enabling the execution of commands when the monitored file system undergoes alterations. It facilitates the setup of triggers for diverse events like file creation, modification, deletion, and movement. Subsequently, we can employ custom scripts to react to these alterations effectively.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/RiyaSalian1611/LLM-Streamlit-App"><b>LLM-Streamlit-App</b></a></td>
-      <td>This project involves creating a simple web application that enables users to input text and receive responses generated by an OpenAI language model. Using the Streamlit framework for the web interface and the LangChain package for interacting with OpenAI's models, the application provides a user-friendly platform for text generation. Users can securely enter their OpenAI API key in the sidebar and input text through a form. Upon submission, the app validates the API key format and, if valid, uses it to query the OpenAI model and generate a response. This project effectively demonstrates how to build an interactive web application that integrates with OpenAI's language models for real-time text generation.
- </td>
-    </tr>
-
- 
-  </tbody>
-</table>
-
-<h3>Where to find me</h3>
-
-<p><a href="https://github.com/RiyaSalian1611/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/riya-salian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@rsalian1/about" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFB000?style=flat-square&logo=huggingface&logoColor=white"/>
+<img alt="OpenAI" src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
 </p>
 
-<h3>Views</h3>
+**ML:** Deep Learning · Transformers · LLMs · RAG · NLP · Computer Vision · Recommendation Systems · Time-Series Forecasting · Survival Analysis · Classification · Regression · Model Evaluation
 
-![Visitor Count](https://profile-counter.glitch.me/RiyaSalian1611/count.svg)
+---
 
-------------
+### 🧬 Generative AI & LLM Engineering
 
+<p>
+<img alt="LLMs" src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img alt="RAG" src="https://img.shields.io/badge/RAG-Pipelines-6E56CF?style=flat-square"/>
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=flat-square"/>
+<img alt="Fine Tuning" src="https://img.shields.io/badge/Fine--Tuning-7C3AED?style=flat-square"/>
+<img alt="GenAI" src="https://img.shields.io/badge/Generative-AI-EC4899?style=flat-square"/>
+</p>
+
+LLM Applications · RAG Pipelines · Prompt Engineering · LLM Evaluation · Human-in-the-Loop Systems · Fine-Tuning · AI Workflows
+
+---
+
+### 📊 Data Science & Data Engineering
+
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+</p>
+
+Data Pipelines · Feature Engineering · Experimentation · A/B Testing · Feature Stores · Model Monitoring · MLOps
+
+---
+
+### ☁️ Cloud & MLOps
+
+<p>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+</p>
+
+AWS · GCP · Docker · Kubernetes · CI/CD · MLflow · Model Serving · Model Monitoring · Feature Stores · Distributed Systems
+
+---
+
+### 💻 Software Engineering
+
+<p>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+</p>
+
+Java · Python · Kotlin · JavaScript · REST APIs · Microservices · Spring Boot · React · Kafka · MongoDB · PostgreSQL · Neo4j
+
+---
+
+## 🔬 Research
+
+My research experience is primarily focused on **AI for healthcare and physiological data**.
+
+### 🫀 Coronary Artery Disease
+
+Research on explainable and expert-guided transformer architectures for diagnosing coronary artery disease from exercise stress ECG signals.
+
+### 🧠 Psychological Stress Detection
+
+Deep learning approaches using physiological time-series data, including Liquid Time-Constant Networks, LSTMs, CNNs, and Transformers.
+
+### 💉 Diabetes Technology
+
+Development and evaluation of artificial-pancreas and automated insulin-delivery systems, including pregnancy-specific Type 1 diabetes simulation.
+
+### 📡 Human-in-the-Loop Systems
+
+Research on high-fidelity simulation of human-in-the-loop and human-in-the-plant systems.
+
+---
+
+## 📚 Publications
+
+* **Expert-Guided Transformers: Advancing CAD Diagnosis** — Asilomar Conference on Signals, Systems & Computers, 2024
+* **Enhancement of Stress ECG Performance with Machine Learning** — JACC: Advances, 2025
+* **Performance Evaluation of Automated Insulin Delivery Systems** — Diabetes Technology & Therapeutics, 2024
+* **High Fidelity Fast Simulation of Human-in-the-Loop Systems** — ACM Conference, 2023
+* **Performance Analysis of Voice over WLAN Intercom System** — ICCCNT, 2020
+
+📖 **[Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)** · **[ORCID](YOUR_ORCID_URL)**
+
+---
+
+## 🚀 Selected Projects
+
+| Project                                                                                                             | What I Built                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 🧠 [LLM Sentiment Analysis & Visualization](https://github.com/RiyaSalian1611/LLM-Sentiment-Analysis-Visualization) | LLM-based sentiment analysis with Python and visual analytics for sentiment distributions.           |
+| 🔮 [EventVizPredict](https://github.com/RiyaSalian1611/EventVizPredict)                                             | NLP and LSTM-based event prediction from Twitter data with interactive D3.js visualization.          |
+| 🕸️ [Fraud Detection](https://github.com/RiyaSalian1611/Fraud-Detection)                                            | Graph-based fraud detection using semantic web mining, Neo4j, Random Forest, and XGBoost.            |
+| 💬 [LLM Streamlit App](https://github.com/RiyaSalian1611/LLM-Streamlit-App)                                         | Interactive LLM application using OpenAI models, LangChain, and Streamlit.                           |
+| 🩺 [Dexcom G6](https://github.com/RiyaSalian1611/DexcomG6)                                                          | Continuous glucose monitoring integration for diabetes-management applications.                      |
+| 👁️ [Surface Defect Detection](https://github.com/RiyaSalian1611/automated-surfaceDefect-detection)                 | Computer-vision pipeline for automated detection of ceramic tile defects.                            |
+| 🗂️ [WatchdogFS Monitor](https://github.com/RiyaSalian1611/WatchdogFS-MonitorPy)                                    | Event-driven Python filesystem monitoring for creation, modification, deletion, and movement events. |
+
+---
+
+## 💼 Background
+
+**Data Scientist — Personalization & AI**
+Building production machine learning and GenAI systems.
+
+**AI Researcher — Healthcare**
+ASU IMPACT Research Lab · Mayo Clinic collaboration
+
+**Software Engineer**
+Lowe's · Distributed systems, microservices, cloud infrastructure
+
+**M.S. Computer Science**
+Arizona State University
+
+---
+
+## 🌱 Beyond Technology
+
+When I'm not experimenting with models or debugging pipelines, you'll probably find me dancing. 💃
+
+I've trained in **Bharatanatyam for 13 years** and have performed on stage. I like to think the patience required to repeat the same movement 200 times has been excellent preparation for debugging ML models.
+
+---
+
+## 📫 Let's Connect
+
+<p>
+<a href="https://github.com/RiyaSalian1611" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/riya-salian/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@rsalian1/about" target="_blank">
+<img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+</p>
+
+---
+
+*Building intelligent systems, researching hard problems, and occasionally convincing neural networks to behave.*
